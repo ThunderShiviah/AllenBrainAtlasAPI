@@ -1,6 +1,6 @@
 # _Project_
 
-_Description: A python library for calling the Allen Brain Atlas API. 
+Description: A python library for calling the Allen Brain Atlas API. 
 ## Project Setup
 
 _How do I, as a developer, start working on the project?_ 
