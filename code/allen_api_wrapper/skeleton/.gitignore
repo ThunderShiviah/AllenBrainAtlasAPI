@@ -11,3 +11,9 @@
 *.pyc
 *.pyo
 *.tmp*
+*~
+.DS_Store
+_build/
+build/
+dist/
+
