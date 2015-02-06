@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: AllenBrainAtlasAPI
+Version: 0.1
+Summary: A python wrapper for the Allan Brain Institute Mouse Brain Atlas.
+Home-page: https://github.com/ThunderShiviah/AllenBrainAtlasAPI/
+Author: Thunder Shiviah
+Author-email: thunder.shiviah@gmail.com
+License: UNKNOWN
+Download-URL: git@github.com:ThunderShiviah/AllenBrainAtlasAPI.git
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,7 @@
+setup.py
+AllenBrainAtlasAPI.egg-info/PKG-INFO
+AllenBrainAtlasAPI.egg-info/SOURCES.txt
+AllenBrainAtlasAPI.egg-info/dependency_links.txt
+AllenBrainAtlasAPI.egg-info/requires.txt
+AllenBrainAtlasAPI.egg-info/top_level.txt
+allen_api_wrapper/__init__.py
