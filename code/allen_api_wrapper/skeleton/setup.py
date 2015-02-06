@@ -14,7 +14,7 @@ config = {
 	'install_requires': ['nose'],
 	'packages': ['allen_api_wrapper'],
 	'scripts': [],
-	'name': 'AllenBrainAtlasAPI'
+	'name': 'allen_api_wrapper'
 }
 
 setup(**config)
