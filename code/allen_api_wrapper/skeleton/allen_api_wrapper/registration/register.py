@@ -1,13 +1,13 @@
 from skimage import io, transform
-
 import numpy as np
 import matplotlib.pyplot as plt
 import os
 
+"""Based on code authored by Stefan van der Walt (github.com/stefanv)"""
 
-# Load the two landscape photos
-img0 = io.imread('data/webreg_0.jpg')
-img1 = io.imread('data/webreg_1.jpg')
+# Load the two brain photos
+img0 = io.imread('../data/img/test043_TL/p1-D1-01b.jpg')
+img1 = io.imread('../data/img/test043_TL/p1-D2-01b.jpg')
 
 
 def choose_corresponding_points():
