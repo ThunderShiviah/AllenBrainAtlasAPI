@@ -24,6 +24,7 @@ To run tests, navigate to the directory above tests and run the following comman
 ```
 nosetests
 ```
+You can take a look at the changelog [here](https://rawgit.com/ThunderShiviah/AllenBrainAtlasAPI/master/changelog.html)
 # License
 The MIT License (MIT)
 
