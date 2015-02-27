@@ -9,7 +9,7 @@ Currently, allen_api_wrapper is being developed using python 3.4. The recommende
 git clone git@github.com:ThunderShiviah/AllenBrainAtlasAPI.git
 ```
 
-Then navigate to the directory containing setup.py and run the following command:
+Then navigate to AllenBrainAtlasAPI/code/allen_api_wrapper/skeleton  (the directory containing setup.py) and run the following command:
 
 ```
 python3.4 setup.py install
